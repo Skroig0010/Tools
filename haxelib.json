@@ -1,0 +1,12 @@
+{
+  "name": "ecs",
+  "url" : "https://github.com/Skroig0010/Tools",
+  "license": "MIT",
+  "tags": [""],
+  "description": "自分用",
+  "version": "1.0.0",
+  "releasenote": "まだ",
+  "contributors": ["gotoh"],
+  "dependencies": {
+  }
+}
